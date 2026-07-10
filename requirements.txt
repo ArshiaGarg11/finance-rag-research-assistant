@@ -1,0 +1,29 @@
+# Finance RAG — AI Research Assistant
+# Install with: pip install -r requirements.txt
+
+# Data collection
+requests
+
+# HTML parsing (chunker)
+beautifulsoup4
+lxml
+
+# Embeddings + vector search
+sentence-transformers
+faiss-cpu
+
+# Keyword search
+rank-bm25
+
+# LLM generation
+groq
+
+# Evaluation
+ragas
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
+numpy
