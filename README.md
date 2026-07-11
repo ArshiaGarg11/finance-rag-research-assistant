@@ -4,6 +4,8 @@
 
 **[🚀 Live Demo](https://finance-rag-research-assistant-5yj696qk6dltquznzsiv8n.streamlit.app/)**
 
+![Finance Research Assistant Demo](assets/demo.png)
+
 ---
 
 ## What it does
