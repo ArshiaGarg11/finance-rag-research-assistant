@@ -149,6 +149,3 @@ streamlit run app.py
 
 ---
 
-## Built by
-
-Arshia Garg — Computer Engineering, Thapar Institute of Engineering and Technology
